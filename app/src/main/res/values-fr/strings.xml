@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="action_settings">Paramètres</string>
+    <string-array name="Boissons">
+        <item>Café</item>
+        <item>Thé</item>
+        <item>Chocolat</item>
+    </string-array>
+    <string name="vanilla">Vanille</string>
+    <string name="chantilly">Chantilly</string>
+    <string name="milk">Lait</string>
+    <string name="quantity">Quantité</string>
+    <string name="price">Prix</string>
+    <string name="order">Commander</string>
+    <string name="total">Total:</string>
+    <string name="cancel">Annuler</string>
+
+</resources>
